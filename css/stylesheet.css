@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 30 px;
+}
+
+p {
+    color: grey;
+    font-family: sans-serif ;
+
+}
+
+a {
+    color: rgb(48, 179, 223);
+    text-decoration: none;
+}
+
+.different {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
